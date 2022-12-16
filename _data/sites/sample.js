@@ -6,6 +6,9 @@ module.exports = {
   },
   urls: [
     "https://www.emcasa.com/",
+    "https://emcasa.com/imoveis/sp/sao-paulo",
     "https://emcasa.com/imoveis/sp/sao-paulo?nextView=true",
+    "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+    "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451?nextView=true",
   ],
 };
